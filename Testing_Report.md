@@ -116,11 +116,11 @@ AI 辅助工具（Claude Code）在测试过程中帮助自动生成测试数据
 
 ### 七、运行界面截图
 
-![程序主界面 - 音乐播放状态](main.png)
+![程序主界面 - 音乐播放状态](https://raw.githubusercontent.com/sid-rk/C-_work/main/Screenshots/main.png)
 
 *截图1：程序主界面，展示暗色主题、左右分栏布局和频谱可视化效果*
 
-![频谱可视化效果](spectrum.png)
+![频谱可视化效果](https://raw.githubusercontent.com/sid-rk/C-_work/main/Screenshots/spectrum.png)
 
 *截图2：频谱可视化，展示32条渐变柱状图和白色峰值指示点*
 
